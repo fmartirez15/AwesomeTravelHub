@@ -34,14 +34,14 @@ We understand the importance of real-time data. That's why AwesomeTravelHub seam
     composer install
     ```
 
-3. **Execute Migrations and Seed Database:**
+3. **Configure Environment Variables:**
+    - Copy the `.env.example` file and rename it to `.env`.
+    - Open the `.env` file and set up your environment variables.
+
+4. **Execute Migrations and Seed Database:**
     ```bash
     php artisan migrate --seed
     ```
-
-4. **Configure Environment Variables:**
-    - Copy the `.env.example` file and rename it to `.env`.
-    - Open the `.env` file and set up your environment variables.
 
 5. **Ignite Your Journey:**
     ```bash
