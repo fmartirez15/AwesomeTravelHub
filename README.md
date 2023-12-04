@@ -53,9 +53,3 @@ We understand the importance of real-time data. That's why AwesomeTravelHub seam
 ## Contribute
 
 We welcome contributions! If you have ideas for improvement or would like to report issues, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-Explore the world with ease – AwesomeTravelHub is here to make your travel experience extraordinary!
