@@ -48,7 +48,7 @@ We understand the importance of real-time data. That's why AwesomeTravelHub seam
     php artisan serve
     ```
 
-   Dive into the endless possibilities and start exploring the world with the magic of AwesomeTravelHub! ???
+   Dive into the endless possibilities and start exploring the world with the magic of AwesomeTravelHub! 🌍✨
 
 ## Contribute
 
@@ -58,4 +58,4 @@ We welcome contributions! If you have ideas for improvement or would like to rep
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-Explore the world with ease � AwesomeTravelHub is here to make your travel experience extraordinary!
+Explore the world with ease – AwesomeTravelHub is here to make your travel experience extraordinary!
