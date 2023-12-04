@@ -37,19 +37,19 @@ We understand the importance of real-time data. That's why AwesomeTravelHub seam
 3. **Configure Environment Variables:**
     - Copy the `.env.example` file and rename it to `.env`.
     - Open the `.env` file and set up your environment variables.
-    - add your OpenWeatherAPI and FourSquare API keys
+    - add your OpenWeatherAPI and FourSquareAPI keys
     ```bash
     OPENWEATHER_API_KEY="your_openweather_api_key"
     OPENWEATHER_API_URL="https://api.openweathermap.org/data/2.5/forecast"
     FOURSQUARE_API_KEY="your_foursquare_api_key"
-    FOURSQUARE_API_URL="https://api.foursquare.com/v3/places/search?"
+    FOURSQUARE_API_URL="https://api.foursquare.com/v3/places/search"
     ```
 
 4. **Generate Application Key**
     ```bash
     php artisan key:generate
     ```
-    
+
 5. **Execute Migrations and Seed Database:**
     ```bash
     php artisan migrate --seed
