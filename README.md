@@ -17,7 +17,7 @@ No more hassle when it comes to finding information about your desired destinati
 User experience is at the forefront of our design philosophy. The user interface of AwesomeTravelHub is not only visually appealing but also intuitively designed, making it a joy for travelers to explore and plan their journeys.
 
 ### All-in-One Page Magic
-Why navigate through multiple pages when you can get everything you need on a single page? AwesomeTravelHub brings together all the essential travel information, including weather updates, local attractions, and currency exchange rates, on one page. It's the ultimate convenience for travelers on the go.
+Why navigate through multiple pages when you can get everything you need on a single page? AwesomeTravelHub brings together all the essential travel information, including weather updates and local attractions on one page. It's the ultimate convenience for travelers on the go.
 
 ### Seamless API Integration
 We understand the importance of real-time data. That's why AwesomeTravelHub seamlessly integrates with the required APIs, providing users with up-to-the-minute information without any delays.
